@@ -1,3 +1,3 @@
-# Compliance Clause Comparator — Architecture & Data Flow
+# Regulation Clause Comparator 
 
 
